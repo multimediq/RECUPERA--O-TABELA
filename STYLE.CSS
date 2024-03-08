@@ -23,3 +23,23 @@ tr:nth-child(even) {
         display: block;
     }
 }
+.table-wrapper {
+    overflow-x: auto;
+}
+
+/* Estilos para a tabela */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+th, td {
+    padding: 8px;
+    border: 1px solid #008cff;
+}
+
+th {
+    background-color: #0066ff;
+    text-align: left;
+}
