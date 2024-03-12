@@ -35,11 +35,7 @@ table {
 }
 
 th, td {
-    padding: 8;
-    border: 1% solid #008cff;
+    padding: 8px;
+    border: 1px solid #0066ff;
 }
 
-th {
-    background-color: #0066ff;
-    text-align: left;
-}
